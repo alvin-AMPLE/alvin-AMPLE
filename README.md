@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alvin-AMPLE
 - 👀 I’m interested in Python, HTML, CSS, Javascript
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... alvin.lim@cares.cam.ac.uk
 
 <!---
